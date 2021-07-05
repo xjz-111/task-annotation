@@ -4,6 +4,8 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.leslie.task_annotation.Task;
+
 
 @Task
 public class MainActivity extends AppCompatActivity {
